@@ -9,3 +9,4 @@ console.log ("Meu nome é:", meuNome);
 console.log ("Minha idade é de:",idade);
 console.log ("Minha altura é de:",altura);
 console.log ("minha massa é de:", massa);
+console.log ("Moro em:", cidade);
